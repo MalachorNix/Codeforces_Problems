@@ -2,6 +2,9 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
+/**
+ * https://codeforces.com/problemset/problem/228/A?locale=en
+ */
 public class Problem228A {
 
     public static void main(String[] args) {
